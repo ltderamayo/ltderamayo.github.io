@@ -11476,7 +11476,7 @@ footer.footer .social-link:hover {
   height: auto;
   padding-top: 8rem;
   padding-bottom: 8rem;
-  background: url("../assets/video.mp4");
+  background: url("../assets/video.mp4") black no-repeat center center scroll;
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
