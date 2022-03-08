@@ -11495,7 +11495,15 @@ footer.footer .social-link:hover {
   }
 }
 .masthead .masthead-avatar {
-  width: 50px;
+  width: 60px;
+}
+
+.masthead .masthead-heading {
+  font-size: 1.75rem;
+  line-height: 1.75rem;
+}
+.masthead .masthead-subheading {
+  font-size: 1.25rem;
 }
 
 .portfolio-item {
