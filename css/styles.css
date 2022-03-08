@@ -11494,6 +11494,9 @@ footer.footer .social-link:hover {
     font-size: 5.5rem;
   }
 }
+.masthead .masthead-avatar {
+  width: 15rem;
+}
 
 .portfolio-item {
   display: block;
