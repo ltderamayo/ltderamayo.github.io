@@ -94,8 +94,7 @@ hr {
   color: #f8a910;
   background-color: currentColor;
   border: 0;
-  opacity: 2.25;
-}
+  }
 
 
 hr:not([size]) {
