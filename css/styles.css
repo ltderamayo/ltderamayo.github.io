@@ -103,7 +103,7 @@ hr.divider {
     max-width: 3.25rem;
     margin: 1.5rem auto;
     background-color: #f8a910;
-    opacity: 50;
+    opacity: 1;
 }
 
 hr:not([size]) {
