@@ -106,6 +106,18 @@ hr.divider {
     opacity: 1;
 }
 
+  
+
+
+hr.style1{
+	border-top: 2px solid #f8a910;
+	width: 200px;
+  	float: center;
+}
+
+
+
+
 hr:not([size]) {
   height: 1px;
 }
