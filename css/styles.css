@@ -91,11 +91,20 @@ body {
 
 hr {
   margin: 1rem 0;
-  color: #f8a910;
+  color: inherit;
   background-color: currentColor;
   border: 0;
-  }
+  opacity: 0.25;
+}
 
+
+hr.divider {
+    height: 0.2rem;
+    max-width: 3.25rem;
+    margin: 1.5rem auto;
+    background-color: #f8a910;
+    opacity: 1;
+}
 
 hr:not([size]) {
   height: 1px;
