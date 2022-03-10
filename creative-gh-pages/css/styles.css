@@ -240,7 +240,7 @@ a {
   text-decoration: underline;
 }
 a:hover {
-  color: #c34e2e;
+  color: #FF8212;
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
@@ -3032,7 +3032,7 @@ textarea.form-control-lg {
 
 .btn-primary {
   color: #fff;
-  background-color: #f4623a;
+  background-color: #FF8212;
   border-color: #f4623a;
 }
 .btn-primary:hover {
