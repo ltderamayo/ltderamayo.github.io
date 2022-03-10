@@ -11541,7 +11541,7 @@ body {
   #mainNav.navbar-shrink .nav-link.active {
     color: #64a19d;
     outline: none;
-    border-bottom: 0.25rem solid #64a19d;
+    border-bottom: 0.25rem solid #699A33;
   }
 }
 
@@ -11620,7 +11620,7 @@ body {
 @media (min-width: 992px) {
   .projects-section .featured-text {
     padding: 0 0 0 2rem;
-    border-left: 0.5rem solid #64a19d;
+    border-left: 0.5rem solid #699A33;
   }
 }
 .projects-section .project-text {
