@@ -11501,6 +11501,7 @@ footer.footer .social-link:hover {
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
+  content:"masthead";
 }
 .masthead h1, .masthead .h1 {
   font-size: 4rem;
