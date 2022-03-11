@@ -11543,6 +11543,8 @@ footer.footer .social-link:hover {
   top: 0;
   bottom: 0;
   z-index: 1;
+  content:"col-lg-6";
+
 }
 .portfolio-item .caption .caption-content {
   color: #fff;
